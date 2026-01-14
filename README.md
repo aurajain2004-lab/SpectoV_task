@@ -64,7 +64,7 @@ The project is divided into six main tasks:
 
 ---
 
-### ✅ Task 6: Implement a Real GitHub Repo (No GPU Required)
+### ✅ Task 6: Implement a Real GitHub Repo
 
 - **Aim:** Clone and run a real-world unsupervised image segmentation repo.
 - **Approach:**  
